@@ -1,13 +1,13 @@
 [
 {
-  "modid": "loliasm",
-  "name": "LoliASM",
-  "description": "The lolis have bytecode manipulated your game.",
+  "modid": "boron",
+  "name": "Boron",
+  "description": "boron has Bytecode maniBulated your Bame.",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "https://github.com/LoliKingdom/LoliASM",
+  "url": "https://github.com/FijiAura/boron",
   "updateUrl": "",
-  "authorList": ["Rongmario"],
+  "authorList": ["FijiAura, Rongmario"],
   "logoFile": "assets/loliasm/loliasm.png",
   "screenshots": [],
   "dependencies": []
